@@ -50,7 +50,7 @@ module.exports = {
       const updatedUser = await User.findOneAndUpdate(
         { _id: user._id },
         { $addToSet: { savedBooks: body } },
-        { new: true, runValidators: true }
+        { new: true }
       );
       return res.json(updatedUser);
     } catch (err) {
