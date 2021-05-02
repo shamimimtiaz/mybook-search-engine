@@ -24,7 +24,6 @@ To login I need to input an email address and a password and press the login but
 During logged in to the site, the menu options change to Search for Books, an option to see my saved books, and Logout. Also I can click on the Save button on a book and book’s information is saved to my account. Also i can remove the book by pressing remove button on a book.
 Atlast, I can log out by pressing logout button.
 
-
 ## Technology
 MongoDB, Express.js, React.js, and Node.js
 Google Books API
@@ -41,7 +40,6 @@ https://user-images.githubusercontent.com/75001492/116797915-9d053280-aab8-11eb-
 
 * Deployment Link: https://mybook-search-engine.herokuapp.com/
 * Github Link: https://github.com/shamimimtiaz/mybook-search-engine.git
-
 
 ## Questions
 If you have questions, email me at km_si@ymail.com or reach out on <a href="https://github.com/shamimimtiaz" target="_blank">Shamim's Github</a>
