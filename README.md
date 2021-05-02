@@ -6,7 +6,6 @@
 * [Usage](#uses)
 * [Technologies](#technologies)
 * [Installation](#installation)
-* [Future Development](#future-development)
 * [Demo](#demo)
 * [Link](#link)
 * [Questions](#questions)
