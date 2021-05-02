@@ -23,7 +23,7 @@ To login I need to input an email address and a password and press the login but
 During logged in to the site, the menu options change to Search for Books, an option to see my saved books, and Logout. Also I can click on the Save button on a book and book’s information is saved to my account. Also i can remove the book by pressing remove button on a book.
 Atlast, I can log out by pressing logout button.
 
-## Technology
+## Technologies
 MongoDB, Express.js, React.js, and Node.js
 Google Books API
 
