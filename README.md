@@ -7,7 +7,7 @@
 * [Technologies](#technologies)
 * [Installation](#installation)
 * [Future Development](#future-development)
-* [Screenshot](#screenshot)
+* [Demo](#demo)
 * [Link](#link)
 * [Questions](#questions)
 
@@ -34,11 +34,12 @@ Google Books API
 * npm install
 * npm run start
 
-## Screenshot
+## Demo
+https://user-images.githubusercontent.com/75001492/116797915-9d053280-aab8-11eb-957b-6eceae9584db.mp4
 
 ## Link
 
-* Deployment Link: 
+* Deployment Link: https://mybook-search-engine.herokuapp.com/
 * Github Link: https://github.com/shamimimtiaz/mybook-search-engine.git
 
 
